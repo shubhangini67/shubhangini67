@@ -1,0 +1,34 @@
+name: Daily dev log
+
+on:
+  schedule:
+    - cron: "30 12 * * 1-5"  # Weekdays 12:30 UTC
+  workflow_dispatch:
+
+jobs:
+  log:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Write today's dev log
+        run: |
+          mkdir -p logs
+          FILE="logs/$(date +%Y-%m-%d).md"
+          if [ ! -f "$FILE" ]; then
+            cat > "$FILE" <<EOF
+          # Dev log · $(date '+%A, %d %B %Y')
+
+          **Focus:** Open source
+
+          - Incremental project progress and documentation
+          - Automated weekday activity log
+          EOF
+          fi
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "dev-log: daily progress ($(date +%Y-%m-%d))"
+          file_pattern: logs/*.md
