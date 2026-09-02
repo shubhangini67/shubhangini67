@@ -4,10 +4,6 @@
 
 <br>
 
-<img src="https://avatars.githubusercontent.com/u/211937520?v=4" width="120" alt="Shubhangini">
-
-<br><br>
-
 [![Email](https://img.shields.io/badge/Email-shubhangini.9654@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhangini.9654@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangini-singh-845731250)
 [![GitHub](https://img.shields.io/badge/GitHub-shubhangini67-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhangini67)
@@ -213,9 +209,5 @@ open_to:
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangini-singh-845731250)
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhangini.9654@gmail.com)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=shubhangini67&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
