@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Tata_Steel_AI_Hackathon_2026-Finalist_%C2%B7_Top_40_of_10,100+-FFD700?style=flat-square&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Tata_Steel_AI_Hackathon_2026-Finalist_%C2%B7_Top_15_of_10,100+-FFD700?style=flat-square&labelColor=0D1117">
 <img src="https://img.shields.io/badge/IIT_(BHU)_Varanasi-Research_Intern-0066CC?style=flat-square&labelColor=0D1117">
 <img src="https://img.shields.io/badge/Open_To-Agentic_AI_%C2%B7_ML_%C2%B7_Backend-10B981?style=flat-square&labelColor=0D1117">
 
